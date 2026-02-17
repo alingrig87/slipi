@@ -16,6 +16,7 @@
     ],
     "ios": {
       "supportsTablet": true,
+      "bundleIdentifier": "com.slipi.app",
       "bundleIdentifier": "com.slipi.app"
     },
     "android": {
